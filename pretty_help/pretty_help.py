@@ -1,4 +1,4 @@
-__all__ = ["PrettyHelp"]
+
 
 from random import randint
 from typing import List, Union
